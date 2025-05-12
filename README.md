@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adbhuthab@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LBkV8_Bys8sS8Y32cTd0aDYNdXd_4EeE/view?usp=sharing](https://drive.google.com/file/d/1LBkV8_Bys8sS8Y32cTd0aDYNdXd_4EeE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LBkV8_Bys8sS8Y32cTd0aDYNdXd_4EeE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adbhutha10&show_icons=true&locale=en" alt="adbhutha10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adbhutha10&" alt="Adbhutha10" /></p>
+
