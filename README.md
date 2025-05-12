@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beere Adbhutha</h1>
 <h3 align="center">Motivated 2nd-year Computer Science student with a strong foundation in C, Java, Python, and web technologies. Passionate about problem-solving, full-stack development, and AI. Experienced in building responsive websites and real-time applications. Seeking opportunities to apply technical skills to real-world projects while continuously learning.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw3Jq4Utxk-LkpnaYtxG1b8o&ust=1747152255947000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDbmb-nno0DFQAAAAAdAAAAABAf">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adbhutha10&label=Profile%20views&color=0e75b6&style=flat" alt="adbhutha10" /> </p>
 
