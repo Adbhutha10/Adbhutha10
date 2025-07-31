@@ -1,7 +1,7 @@
 ![logo](https://github.com/Adbhutha10/Adbhutha10/blob/main/Beere%20adbhutha%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Beere Adbhutha</h1>
-<h3 align="center">Motivated 2nd-year Computer Science student with a strong foundation in C, Java, Python, and web technologies. Passionate about problem-solving, full-stack development, and AI. Experienced in building responsive websites and real-time applications. Seeking opportunities to apply technical skills to real-world projects while continuously learning.</h3>
+<h3 align="center">Motivated 3rd-year Computer Science student with a strong foundation in C, Java, Python, and web technologies. Passionate about problem-solving, full-stack development, and AI. Experienced in building responsive websites and real-time applications. Seeking opportunities to apply technical skills to real-world projects while continuously learning.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
